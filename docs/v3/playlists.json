@@ -1,0 +1,64 @@
+[
+  {
+    "Id": "5157a7b5-2b03-41b3-aaca-790459c661ee",
+    "Title": "Zoom Meetings Quick Start",
+    "Image": "images/playlists/excel_quick_start.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "f24844a9-4d82-46fb-a25d-033c04b66d4f",
+    "SubjectId": "",
+    "Source": "Other",
+    "CatId": "eb0090d2-688c-4abc-8561-55e02f0c112f",
+    "Description": "Get up and running quickly with our Zoom Meetings Quick Start. Learn how to register your Zoom account, set up Zoom and tips and tricks.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "23369012-c3ea-4505-a6ee-5913c7c91efe",
+      "557aeaa4-d33c-49c5-9cb3-b0be59e8d162",
+      "c49b2554-eaf7-420b-b450-22188ddc1084",
+      "27beed81-b800-4413-93f2-69f7388361e2",
+      "2b2a8ea1-98a5-41ae-b060-156923033af0",
+      "cfd66488-b46e-48fd-badd-276c92e94e0c"
+    ]
+  },
+  {
+    "Id": "c86b4bcd-a7b5-4509-9a7a-fbe03e477610",
+    "Title": "Zoom Phone Quick Start",
+    "Image": "images/playlists/excel_quick_start.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "9eeecb9f-01ed-4cc8-944f-6f73b156c2be",
+    "SubjectId": "",
+    "Source": "Other",
+    "CatId": "eb0090d2-688c-4abc-8561-55e02f0c112f",
+    "Description": "Get up and running quickly with our Zoom Phone Quick Start. Learn how to register your Zoom account, set up Zoom and tips and tricks.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "23369012-c3ea-4505-a6ee-5913c7c91efe",
+      "557aeaa4-d33c-49c5-9cb3-b0be59e8d162",
+      "c49b2554-eaf7-420b-b450-22188ddc1084",
+      "124f6be0-7b8c-4973-bb1e-eb6fa03b05ec",
+      "40f636b9-56db-465d-a3f1-2ebaf73babd8",
+      "7270700c-049b-4232-87aa-1d013ea83461",
+      "30e628dd-2ff2-4c67-9e95-7dafecd70c44"
+    ]
+  },
+  {
+    "Id": "8c43d6ae-bc4c-4d79-926d-0b8c47040a9f",
+    "Title": "Zoom Room Quick Start",
+    "Image": "images/playlists/excel_quick_start.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "8fdcdf31-e7f3-449b-b674-20160b5caa2a",
+    "SubjectId": "",
+    "Source": "Other",
+    "CatId": "eb0090d2-688c-4abc-8561-55e02f0c112f",
+    "Description": "Get up and running quickly with our Zoom Room Quick Start. Learn how to start meetings from a Zoom Room and share content from your laptop.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "88c518bc-d583-4714-914e-71c7431c8bd3"
+    ]
+  }
+]
